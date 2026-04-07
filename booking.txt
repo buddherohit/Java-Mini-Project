@@ -1,0 +1,11 @@
+User : Rohit | Movie : Avengers | Time : 10 AM | Seat : Selected Seat | Date : 2026-04-06T23:52:49.660701700
+User : Rohit | Movie : Pushpa | Time : 10 AM | Seat : Selected Seat | Date : 2026-04-06T23:57:07.612910600
+User : user | Movie : Avengers | Time : 10 AM | Seat : Selected Seat | Date : 2026-04-06T23:57:54.134064
+User : Rohit | Movie : Pushpa | Time : 2 PM | Seat : Selected Seat | Date : 2026-04-07T00:02:08.464225900
+User : Rohit | Movie : KGF | Time : 6 PM | Seat : Selected Seat | Date : 2026-04-07T00:02:58.328185100
+User : Rohit | Movie : Pushpa | Time : 2 PM | Seat : Selected Seat | Date : 2026-04-07T00:06:18.955180700
+User : Rohit | Movie : Pushpa | Time : 2 PM | Seat : Selected Seat | Date : 2026-04-07T00:08:37.508901600
+User : Rohit  | Movie : Avengers | Time : 10 AM | Seat : Selected Seat | Date : 2026-04-07T00:49:43.416495600
+User : Rohit  | Movie : Avengers | Time : 10 AM | Seat : Selected Seat | Date : 2026-04-07T00:50:14.540979800
+User : Rohit | Movie : Pushpa | Time : 6 PM | Seat : Selected Seat | Date : 2026-04-07T11:59:25.515782
+User : Rushikesh | Movie : Pathaan | Time : 2 PM | Seat : Selected Seat | Date : 2026-04-07T12:00:10.840129300

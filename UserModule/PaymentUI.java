@@ -1,4 +1,6 @@
+package UserModule;
 import javax.swing.*;
+
 import java.awt.*;
 
 public class PaymentUI extends JFrame {

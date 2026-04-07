@@ -1,4 +1,8 @@
+package UserModule;
 import javax.swing.*;
+
+import AdminModule.AdminPanel;
+
 import java.awt.*;
 import java.io.*;
 

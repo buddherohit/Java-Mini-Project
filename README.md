@@ -87,7 +87,6 @@ Web Version
 Mobile App
 Real-time Seat Booking
 👨‍💻 Author
-
 Rohit Buddhe
 Computer Engineering Student
 

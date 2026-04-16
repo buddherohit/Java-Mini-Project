@@ -25,7 +25,6 @@ Event Handling
 Visual Studio Code (VS Code)
 
 Extensions Used:
-
 Extension Pack for Java
 Java Debugger
 Java Language Support

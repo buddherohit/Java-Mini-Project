@@ -54,7 +54,6 @@ Open in VS Code
 Step 3
 
 Run Main.java
-
 📸 Screenshots
 Login Screen
 

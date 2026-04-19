@@ -1,7 +1,6 @@
 🎬 Movie Ticket Booking System
 
 A Java Swing based Movie Ticket Booking System that allows users to book movie tickets, select seats, make payments, and manage bookings through a user-friendly interface.
-
 🚀 Features
 🔐 User Login & Registration
 🎬 Movie Selection
